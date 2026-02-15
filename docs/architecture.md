@@ -10,10 +10,7 @@
 
 ## 2. Database Schema (ERD)
 
-View the diagrams in the `docs/images/` folder:
 
-- System architecture diagram: [docs/images/system-architecture.svg](docs/images/system-architecture.svg)
-- Database ERD: [docs/images/database-erd.svg](docs/images/database-erd.svg)
 
 ### Summary of key tables
 #### Tenants
